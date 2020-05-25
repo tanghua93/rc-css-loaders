@@ -1,6 +1,6 @@
 # rc-touch-slider
 
-***wrapper around for [Loaders.css]:(https://github.com/ConnorAtherton/loaders.css)***
+***wrapper around for <a href="https://github.com/ConnorAtherton/loaders.css" target="_blank">Loaders.css</a>***
 
 
 
@@ -57,6 +57,9 @@ import Loader from 'rc-css-loaders';
 |![semi-circle-spin](assets/gifs/semi-circle-spin.gif)|semi-circle-spin|`<Loader name="semi-circle-spin" />`|
 |![square-spin](assets/gifs/square-spin.gif)|square-spin|`<Loader name="square-spin" />`|
 |![triangle-skew-spin](assets/gifs/triangle-skew-spin.gif)|triangle-skew-spin|`<Loader name="triangle-skew-spin" />`|
+
+## Reference
+***<a href="https://github.com/Hokid/vue-loaders">vue-loaders</a>***
 
 
 
