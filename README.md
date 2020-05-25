@@ -23,7 +23,7 @@ import Loader from 'rc-css-loaders';
 | Name | Type | Default | Description |
 | ------------ | ------- | ------- | ----------- |
 |name |string | |ball-spin-fade-loader |  loader name
-|scale |number |1 |loader|  loader scale
+|scale |number |1 |loader scale
 |color |string |#fff|  loader color
 
 **Loader Names**
