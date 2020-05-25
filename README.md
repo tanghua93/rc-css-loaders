@@ -2,7 +2,7 @@
 
 ***wrapper around for <a href="https://github.com/ConnorAtherton/loaders.css" target="_blank">Loaders.css</a>***
 
-
+<img src="assets/gifs/loaders.gif" alt="loaders"/>
 
 ## Install
 ```
