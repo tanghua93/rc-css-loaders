@@ -13,7 +13,7 @@ npm install --save rc-css-loaders
 ```
 import Loader from 'rc-css-loaders';
 
-<Loader></Loader>
+<Loader />
 ```
 
 ## API
